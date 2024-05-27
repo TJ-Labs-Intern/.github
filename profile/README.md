@@ -1,5 +1,7 @@
 # TJ Labs
 
+![TJ Labs Logo](/profile/TJLABSLOGO-svg.png)
+
 [![GitHub Organization](https://img.shields.io/badge/GitHub-Organization-blue)](https://github.com/tj-labs)
 
 Willkommen bei der offiziellen GitHub-Organisation von TJ Labs! Wir sind eine Gemeinschaft leidenschaftlicher Entwickler, die an verschiedenen Projekten und Open-Source-Initiativen arbeiten.
